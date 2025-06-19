@@ -83,5 +83,4 @@ usd-pipeline-demo/
 
 ## 💬 Contact
 
-Made by [Duck]  
-Reach out via [your portfolio link] or GitHub
+Made by [SubmergedDuck](https://github.com/submergedduck)
