@@ -23,7 +23,7 @@ usd-pipeline-demo/
 
 ## 🛠 Tools Used
 
-- [Blender](https://www.blender.org/) (vX.X) with USD Export Add-on
+- [Blender](https://www.blender.org/) (v4.4) with USD Export Add-on
 - [Pixar USD SDK](https://github.com/PixarAnimationStudios/USD)
 - `usdview` for USD visualization
 - Python 3.9+ for scene inspection
