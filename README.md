@@ -19,6 +19,7 @@ usd-pipeline-demo/
 │   ├── blender_viewport.png
 │   └── usdview_hierarchy.png
 ├── README.md
+```
 
 ## 🛠 Tools Used
 
@@ -26,7 +27,7 @@ usd-pipeline-demo/
 - [Pixar USD SDK](https://github.com/PixarAnimationStudios/USD)
 - `usdview` for USD visualization
 - Python 3.9+ for scene inspection
-- *(Optional)* NVIDIA Omniverse Create for layered scene review
+- *(WIP)* NVIDIA Omniverse Create for layered scene review
 
 ---
 
